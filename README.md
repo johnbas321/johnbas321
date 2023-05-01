@@ -75,7 +75,7 @@ I am an undergraduate student at National Technical University of Athens studyin
   <a href="https://www.instagram.com/giannis.basdekis/">
     <img src="https://img.shields.io/badge/Instragram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="johnbas321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
