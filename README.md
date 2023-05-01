@@ -20,7 +20,7 @@ I am an undergraduate student at National Technical University of Athens studyin
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools I have used :
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
@@ -38,19 +38,19 @@ I am an undergraduate student at National Technical University of Athens studyin
 </div>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/apache-original.svg" title="apache" alt="apache" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" title="flask" alt="flask" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViCroqviMgyMunS1DAp91MIP6_1yla73k1O9bkt0tGQ&s" title="express" alt="express" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/></a>
 </div>
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="prolog" alt="prolog" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sml/sml-original.svg" title="sml" alt="sml" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" title="prolog" alt="prolog" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://www.cs.unm.edu/~darko/smlnj/GIFS/Logo4.jpeg" title="sml" alt="sml" width="40" height="40"/></a>
 </div>
 <div>
   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/></a>
   <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="assembly" alt="assembly" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://www.ptinstitute.in/wp-content/uploads/2015/12/unnamed.png" title="assembly" alt="assembly" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/></a>
 </div>
