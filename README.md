@@ -6,6 +6,17 @@
 </h1>
 </div>
 
+:technologist: About Me :
+
+I am an undergraduate student at National Technical University of Athens studying Electrical and Computer Engineering!
+<a href="https://www.ntua.gr/en/"><img src="https://i.ibb.co/4FzgjCZ/2.png" width="40" alt="NTUA Image" border="0"></a>
+- :surfing_man:  Not really interested in the electrical stuff :/
+- :telescope: Currently working on school and personal projects
+- :muscle: Most experienced with Full-Stack Development and Computer Networks
+- :chess_pawn: Average Chess Enjoyer!
+
+
+
 <!--
 **johnbas321/johnbas321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
