@@ -64,3 +64,18 @@ I am an undergraduate student at National Technical University of Athens studyin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbas321&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :round_pushpin: Contact Me :
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/john-basdekis-a8884119a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/giannis.basdekis/">
+    <img src="https://img.shields.io/badge/Instragram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
