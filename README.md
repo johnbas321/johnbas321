@@ -30,3 +30,42 @@ I am an undergraduate student at National Technical University of Athens studyin
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
 </div>
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/></a>
+</div>
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javscript" alt="Javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
+</div><div>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javscript" alt="Javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
+</div><div>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javscript" alt="Javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
+</div><div>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javscript" alt="Javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>
+</div>
