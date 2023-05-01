@@ -55,3 +55,12 @@ I am an undergraduate student at National Technical University of Athens studyin
   <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://www.ptinstitute.in/wp-content/uploads/2015/12/unnamed.png" title="assembly" alt="assembly" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/></a>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnbas321&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbas321&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
