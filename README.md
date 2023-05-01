@@ -17,6 +17,7 @@ I am an undergraduate student at National Technical University of Athens studyin
 - :muscle: Most experienced with Full-Stack Development and Computer Networks.
 - :telescope: I like researching!
 - :chess_pawn: Average Chess Enjoyer!
+- :coffee: Coffee Adict!
 
 ---
 
