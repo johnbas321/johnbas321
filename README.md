@@ -38,11 +38,11 @@ I am an undergraduate student at National Technical University of Athens studyin
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/></a>
 </div>
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" title="flask" alt="flask" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViCroqviMgyMunS1DAp91MIP6_1yla73k1O9bkt0tGQ&s" title="express" alt="express" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/></a>
+  <a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png" title="flask" alt="flask" width="40" height="40"/></a>
+  <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViCroqviMgyMunS1DAp91MIP6_1yla73k1O9bkt0tGQ&s" title="express" alt="express" width="40" height="40"/></a>
+  <a href="https://httpd.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/></a>
 </div>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" title="prolog" alt="prolog" width="40" height="40"/></a>
