@@ -13,7 +13,7 @@
 I am an undergraduate student at National Technical University of Athens studying Electrical and Computer Engineering!
 <a href="https://www.ntua.gr/en/"><img src="https://i.ibb.co/4FzgjCZ/2.png" width="40" alt="NTUA Image" border="0"></a>
 - :surfing_man:  Not really interested in the electrical stuff :/
-- :technologist: Currently working on school and personal projects.
+- :technologist: Currently on my second intership at Nokia Solutions and Networks in the Network Infrastructure Department.
 - :muscle: Most experienced with Full-Stack Development and Computer Networks.
 - :telescope: I like researching!
 - :chess_pawn: Average Chess Enjoyer!
