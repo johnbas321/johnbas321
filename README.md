@@ -23,7 +23,6 @@ I am an undergraduate student at National Technical University of Athens studyin
 
 ### :hammer_and_wrench: Languages and Tools I have used :
 <div>
-  https://tailwindcss.com/
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
