@@ -23,9 +23,11 @@ I am an undergraduate student at National Technical University of Athens studyin
 
 ### :hammer_and_wrench: Languages and Tools I have used :
 <div>
+  https://tailwindcss.com/
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40"/></a>
   <a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javscript" alt="Javascript" width="40" height="40"/></a>
   <a href="https://legacy.reactjs.org"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
   <a href="https://www.figma.com"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
@@ -43,6 +45,7 @@ I am an undergraduate student at National Technical University of Athens studyin
   <a href="https://expressjs.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViCroqviMgyMunS1DAp91MIP6_1yla73k1O9bkt0tGQ&s" title="express" alt="express" width="40" height="40"/></a>
   <a href="https://httpd.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/></a>
+  <a href="https://redis.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/></a>
 </div>
 <div>
   <a href="https://www.swi-prolog.org/"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" title="prolog" alt="prolog" width="40" height="40"/></a>
