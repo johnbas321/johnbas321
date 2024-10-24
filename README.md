@@ -54,7 +54,7 @@ I am an undergraduate student at National Technical University of Athens studyin
   <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://www.ptinstitute.in/wp-content/uploads/2015/12/unnamed.png" title="assembly" alt="assembly" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" title="assembly" alt="assembly" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/></a>
 </div>
 
